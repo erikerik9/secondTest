@@ -1,14 +1,14 @@
-#secondTest
+# secondTest
 
-##設定方法
+## 設定方法
 
--導入方法
--環境設定
--基本的な記述
+- 導入方法
+- 環境設定
+- 基本的な記述
 
-*強調*
-**強い強調**
-`$hoge = 1`
+*強調* _強調_
+**強い強調**  __強い協調__
+`$hoge = 1` `インライン表示`
     $hoge1 = 1 //1行目
     $hoge2 = 2 //2行目
     $hoge3 = 3 //3行目
@@ -40,7 +40,10 @@ H2見出し（ハイフン行を挿入。）
 > 引用本文引用本文引用本文引用本文
 > $hgoe = 1 コードを書いてみたり
 > 引用本文引用本文引用本文引用本文
+
+
 [リンクのテキスト](https://github.com/erikerik9)
+
 I get 10 times more traffic from [Google][] than from
 [Yahoo][] or [MSN][].
 
@@ -54,8 +57,11 @@ I get 10 times more traffic from [Google][] than from
 - - -
 ---------------------------------------
 <font color="Red">赤色</font>
+
 *斜体*
+
 ~~打ち消し線~~
+
 基本的なテーブル　テーブルの前には、空白行が必要。
 
 |a  |b  |c  |
