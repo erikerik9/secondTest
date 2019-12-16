@@ -1,2 +1,2 @@
-console.log('main.js');
-document(テキスト);
+console.log( document.body );
+document write(テキスト);
