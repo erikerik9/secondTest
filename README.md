@@ -56,7 +56,8 @@ I get 10 times more traffic from [Google][] than from
 <font color="Red">赤色</font>
 *斜体*
 ~~打ち消し線~~
-基本的なテーブル
+基本的なテーブル　テーブルの前には、空白行が必要。
+
 |a  |b  |c  |
 |---|---|---|
 |1  |2  |3  |
